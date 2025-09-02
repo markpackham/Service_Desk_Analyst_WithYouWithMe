@@ -1,0 +1,49 @@
+Service Desk Roles and Responsibilities
+
+
+Who's Who on the Service Desk? 
+
+Service desks can be places where people get help, but that help can come in many facets, whether that is direct 'front-of-house' support from the service desk ,or 'back-of-house' support for solutions like Salesforce, SharePoint Online, SAP, etc. 
+
+It's also about quickly ensuring the customer gets their request resolved in the most timely manner, and knowing who to go to is essential.
+
+
+Different roles on a typical service desk
+
+I.T. Manager
+The Captain of the ship, the I.T. manager is the final point of escalation for non-technical issues and determining team strategy. 
+They also should be escalated to when there are issues with end users not responding to requests from the team.
+
+
+Systems Administrator
+A systems administration team are the custodians of the infrastructure for the business, and they ensure the continuation of service.
+Systems Administrators are  good technical resources, however,  you should cover all bases prior to engaging them.
+
+
+Service Desk Analyst
+The Service Desk Analyst is the hands and the face of the IT Department. 
+All requests get routed through the Service Desk, the analyst prioritises and triages the requests, passed to the appropriate team for actioning and resolving the remaining requests.
+
+
+Technical Lead / Senior Service Desk Analyst
+The Technical Lead is often a Tier 2 or 3 technician whose role is to provide a source of escalation between the Service Desk Analyst and the Systems Administration team.
+Some businesses will refer to this with a Senior designation (e.g. Senior Service Desk Analyst)
+
+
+
+Business Support Specialist
+This team performs the resolution of issues of back of house solutions (SAP, Salesforce, SharePoint, etc.) 
+They are not generally front facing staff however will contact customers in relation to requests received.
+
+
+
+What Kind of Things Will I Do?
+
+Daily, you can expect to see some if not all of the following items 
+
+- User creation/deactivation
+- Asset management and tracking
+- Resolving incidents presented to the desk
+- Communication with the business concerning issues/updates.
+
+Alongside these tasks, you will do additional items as assigned by the IT Manager or at the request of the System Administrators. 
