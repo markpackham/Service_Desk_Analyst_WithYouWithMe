@@ -1,1 +1,37 @@
 Tools Overview
+
+Microsoft Management Portals
+
+In this section we provide an overview of tools provided by Microsoft that you may utilise during your time on the service desk:
+
+Active Directory Users & Computers
+On premises management software for users, groups and computers inside the domain.
+Depending on the configuration of the environment, Active Directory Users and Groups may only be used, may be used in conjunction with Azure Entra ID or not used at all.
+
+
+Intune Endpoint Portal
+Management portal for Intune managed mobile and computing devices. Requires use of Comp Portal on the remote device.
+
+
+Azure Entra ID
+Similar to Active Directory Users & Computers Azure Entra ID is a web portal for management of domain users and groups.
+
+
+Teams Admin Centre
+Portal for the creation and management of Microsoft Teams and Teams Calling.
+
+
+Exchange Admin Centre
+A web-based interface that allows administrators to manage their organisation's Exchange servers and mailboxes.
+
+
+Microsoft 365 Admin Centre
+Microsoft's central platform for managing roles, licenses and tracking updates to 365 services.
+
+
+Security & Compliance Centre
+The Microsoft Security & Compliance Center is a unified management portal for managing and securing data in Microsoft 365.
+
+
+SharePoint Admin Centre
+The administration portal for SharePoint Online, which allows for the addition of sites, and the management of Term Stores and OneDrive.
