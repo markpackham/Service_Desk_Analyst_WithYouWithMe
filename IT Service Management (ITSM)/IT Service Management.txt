@@ -1,0 +1,33 @@
+IT Service Management (ITSM)
+
+
+IT Service Management (ITSM) is a set of processes, policies, and procedures designed to help organizations plan, deliver, operate, and control IT services to meet the needs of their customers. 
+
+After this module, you will have achieved the following objectives.
+
+Identify elements of a request
+Understand how to keep excellent notes
+Analyse a request priority and understand 
+Explain the purpose of a Service Level Agreement. 
+After this module, you will be able to demonstrate the following SFIA Skills:
+
+Service level management: Level 2
+
+Monitors and logs the actual service provided, compared to that required by service level agreements.
+Service level management: Level 3
+
+Monitors service delivery performance metrics.
+Service level management: Level 4
+
+Analyses service delivery performance to identify actions required to maintain or improve levels of service.
+Incident management: Level 2
+
+Follows agreed procedures to identify, register and categorise incidents.
+Gathers information to enable incident resolution and allocates incidents as appropriate.
+Incident management: Level 3
+
+Provides first line investigation and gathers information to enable incident resolution and allocate incidents.
+Advises relevant persons of actions taken.
+Incident management: Level 4
+
+Ensures that incidents are handled according to agreed procedures.

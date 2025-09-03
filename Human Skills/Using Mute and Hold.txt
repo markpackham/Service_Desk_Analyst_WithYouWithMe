@@ -1,3 +1,96 @@
 Using Mute and Hold
 
 
+
+The 'Hold' Function
+
+The hold function is used on phone calls to temporarily mute or pause the conversation while the caller is put on hold. 
+
+By using hold, a service desk analyst can temporarily pause a call or chat conversation while working on a task or obtaining information.
+
+When to use HOLD
+Using hold can be an effective tool for managing the conversation and ensuring that a smooth call flow occurs. 
+
+Some best practices to keep in mind when considering the hold function:
+
+- Using hold should be avoided unless it is required for a specific purpose during the call
+- The misuse of hold can potentially raise the frustration levels of a customer
+- Overusing hold can cause a customer to feel that their issue isn't important to you and that they’re second to whatever it is that you're trying to do
+Any time you use the hold function, it is best practice to explain why you are doing so to the customer.
+
+
+The use of "Are you there?" when returning to a call can come across as unprofessional.
+Instead, try:
+"Thank you for your patience, <Name>".
+
+
+Example: Placing a Customer on Hold
+The following is an example of good technique when placing a customer on hold:
+
+Customer:
+"Hi, I have a question about my bill. Can you help me?"
+
+Customer Service Representative:
+"Of course, I'd be happy to help. Can you please hold for a moment while I review your account?"
+
+Customer:
+"Sure, no problem."
+
+(Customer Service Representative places the customer on hold for a few moments while they access the customer's account information)
+
+
+
+Example: Taking a Customer off Hold
+The following is an example of good technique when returning to a call and taking the customer off hold: 
+
+Customer Service Representative:
+"Thank you for holding. I have reviewed your account and it looks like there is a discrepancy in your billing. I will need to consult with our billing department to resolve this. Can I place you on hold for just a few more moments while I speak with them?"
+
+Customer:
+"Yes, please go ahead."
+
+(Customer Service Representative places the customer on hold again while they consult with the billing department)
+
+Customer Service Representative:
+"Thank you for holding. I have spoken with our billing department and we have identified the issue. I will now explain the solution and we can work on resolving this for you. Thank you for your patience."
+
+
+
+The 'Mute' Function
+
+The mute function on a phone call temporarily disables the microphone so the other person can't hear you. It is typically used when you need privacy or to block background noise. 
+
+A service desk analyst may utilise the mute function during a phone call with a customer to temporarily disable their microphone and talk to a colleague or research a solution without interrupting the call. This can help improve the quality of service and reduce customer wait times.
+
+When to use MUTE
+A service desk analyst can use the mute function when they need to do the following actions:
+
+- Consult with colleagues
+- Research a solution
+- Address a situation without interrupting the customer
+- Clear your throat or cough
+- Take a drink
+It should be used sparingly and with proper communication to avoid leaving the customer confused or neglected. 
+
+
+
+Best Practices: Using Mute
+Let's say a service desk analyst is on a call with a customer and needs to mute themselves to consult with a colleague to resolve the issue. The analyst should follow these steps:
+
+Inform the customer that they need to mute the line briefly to consult with a colleague to resolve the issue
+Press the mute button on their phone or headset to ensure that the customer cannot hear their conversation with the colleague
+Consult with the colleague to resolve the issue as quickly and efficiently as possible
+
+
+Best Practices: Using Mute
+Let's say a service desk analyst is on a call with a customer and needs to mute themselves to consult with a colleague to resolve the issue. The analyst should follow these steps:
+
+Inform the customer that they need to mute the line briefly to consult with a colleague to resolve the issue
+Press the mute button on their phone or headset to ensure that the customer cannot hear their conversation with the colleague
+Consult with the colleague to resolve the issue as quickly and efficiently as possible
+
+
+- Avoid the use of "Are you there?" when you return
+- Use the customers name as much as possible
+- Set realistic expectations on how long you anticipate the hold to be.
+- When you reach the end of the hold time, go back to the customer with an answer / request for more time. Don't leave them on a single hold indefinitely.

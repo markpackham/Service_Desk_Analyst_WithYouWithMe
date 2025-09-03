@@ -1,0 +1,40 @@
+What is IT Service Management?
+
+IT Service Management (ITSM) is a set of process-based practices that help organisations design, deliver, manage, and improve IT services to meet their business needs and provide value to their customers. 
+
+ITSM can involve:
+
+- Aligning IT services with the organisation's goals and objectives
+- Implementing best practices to manage IT services throughout their lifecycle.
+- Continually improving IT service quality, efficiency, and effectiveness. 
+
+ITSM frameworks like ITIL (Information Technology Infrastructure Library) provide guidance on how to implement ITSM practices, including service strategy, design, transition, operation, and continual service improvement. 
+
+
+The ultimate goal of ITSM is to ensure that IT services support the organisation's business goals and deliver maximum value to customers.
+
+
+The 4 Elements of ITSM
+
+Over time, 4 key areas have been recognised as integral to implementing quality ITSM:
+- People
+- Processes
+- Technology
+- Partners
+
+
+People
+The people involved in the delivery and support of IT services, including customers, users, and IT staff.
+
+Processes
+The structured set of activities and workflows that define how IT services are delivered and managed, such as incident management, problem management, and change management.
+
+Technology
+The tools, systems, and applications that support the delivery and management of IT services, such as service desk software, monitoring tools, and automation solutions.
+
+Partners
+The external suppliers, vendors, and other third-party organizations that provide services or support to the IT service provider, such as cloud service providers or hardware manufacturers.
+
+
+IT Infrastructure Library (ITIL)
+
