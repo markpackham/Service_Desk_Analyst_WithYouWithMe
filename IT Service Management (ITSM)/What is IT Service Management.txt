@@ -38,3 +38,20 @@ The external suppliers, vendors, and other third-party organizations that provid
 
 IT Infrastructure Library (ITIL)
 
+ITIL [IT Infrastructure Library] is a set of best practices for ITSM that provides guidance on how to plan, design, deliver, and improve IT services. It helps organisations align their IT services with business needs, improve service quality, and optimize service delivery processes. 
+
+How does ITIL Fit into ITSM?
+
+Many of you will undertake an ITIL v3 or V4 course during your career. It is essential to understand how the two work together. 
+
+Your ITSM should be configured to utilise this framework and the lessons learned. For example, when a ticket is completed, mark the ticket as resolved and then allow your customer to respond before the ticket is closed, as a ticket should never be reopened once closed but resolved back to Open is still valid.
+
+
+Summary
+
+ITSM stands for Information Technology Service Management. It is a set of best practices, processes, and policies that are designed to manage and deliver IT services to customers. 
+
+ITSM focuses on aligning IT services with the needs of the business and ensuring the delivery of high-quality services that are efficient, effective, and cost-effective.
+
+ITSM encompasses various frameworks and methodologies such as ITIL, COBIT, and ISO/IEC 20000.
+

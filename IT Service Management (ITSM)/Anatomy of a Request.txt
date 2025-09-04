@@ -1,0 +1,53 @@
+Anatomy of a Request
+
+
+Ticket Example
+
+For the example below, we are using FreshService, so be aware that some elements will differ from other ITSM suites. Their core functionality remains the same regardless of the label put on them. 
+
+
+Title
+The Title of the ticket when submitted via email will take the subject line of the email. 
+You should consider any time the title contains URGENT to review the rest of the ticket and assess accordingly.
+
+Description
+The description of a request is where the customer / technician is providing details around the base level of the request.
+
+Mail Controls
+ITSM suites have the capability to send emails back to the requestor but also allow you to forward the details of the request over to another party in the event of an approval requirement, etc.
+
+Overview
+This area will give an overview of the ticket and giving the basics of the request as to what the current status is, the priority and the date the request is due to be completed.
+
+Notes
+Notes allow the technician working on the ticket or another techncian to put additional information into a ticket.
+This may be the results of testing, a message if the end user has phoned through, reason that a ticket is in a certain state. 
+
+Requestor Information
+This will provide details about the requestor.
+The information provided can be as limited as their name and contact details right up to machines assigned and existing tickets depending on the ITSM platform.
+
+Priority
+This is the editable field to set the overall priority of the request.
+Priority should always be set as per the ITSM priority matrix set out by the business based on Impact and Urgency.
+
+Status
+The status of the request shows where the ticket is currently up to without having to rely on notes. 
+For an example, you would be able to tell based on the status that a request is waiting on a third party if that is the current setting.
+You would then use Notes to elaborate on this status.
+
+Source
+The location where the ticket started. 
+In the event the ticket was logged by email it would read "E-Mail", in the event of being logged by the service desk or the Self Service Portal, this would generally read "Portal"
+
+Type
+The Type of the request is where you stipulate whether it falls under the requirements of an Incident or a Service Request.
+You will learn the difference between Incidents and Service Requests during the Ticket Management module of the course.
+
+Urgency
+Urgency: A measure of how long it will be until an incident, problem or change significantly impacts the business.
+You will learn more about urgency in the next lesson.
+
+Impact
+Impact: A measure of the effect of an incident, problem, or change on business processes.
+You will learn more about impact in the next lesson.

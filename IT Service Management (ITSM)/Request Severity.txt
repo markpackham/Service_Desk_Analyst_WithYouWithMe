@@ -1,0 +1,4 @@
+Request Severity
+
+Impact Vs. Urgency
+There can be a difference between what your customer perceives as how quickly their request should be actioned. As a Service Desk Analyst you will be required to ascertain the actual severity of the request based on the Impact and the Urgency.
