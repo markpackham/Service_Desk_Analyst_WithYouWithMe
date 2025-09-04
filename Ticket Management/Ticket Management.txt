@@ -1,0 +1,23 @@
+Ticket Management
+
+Incident management: Level 2
+Follows agreed procedures to identify, register and categorise incidents.
+Gathers information to enable incident resolution and allocates incidents as appropriate.
+
+Incident management: Level 3
+Provides first line investigation and gathers information to enable incident resolution and allocate incidents.
+
+Incident management: Level 4
+Facilitates recovery, following resolution of incidents. Documents and closes resolved incidents.
+
+Problem management: Level 4
+Initiates and monitors actions to investigate and resolve problems in systems, processes and services.
+
+Change control: Level 2
+Applies tools, techniques and processes to administer, track, log, report on change requests.
+Applies change control procedures for standard, low-risk changes.
+
+Change control: Level 3
+Develops, documents and implements changes based on requests for change.
+Applies change control procedures.
+Applies tools, techniques and processes to manage and report on change requests.

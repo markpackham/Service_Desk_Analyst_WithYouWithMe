@@ -1,0 +1,31 @@
+Resolving vs. Closing a Request
+
+
+Resolving an IT request means fixing the issue and ensuring it is fully resolved, while closing a request means ending the support process without necessarily fixing the problem. 
+
+Resolving an issue is the desired outcome while closing a request should only occur when no further action is required. 
+
+
+Resolving a Request
+
+At the conclusion of a request, there will be one of two outcomes in the status of the ticket. The request will be marked as resolved meaning the issue is resolved from the service desk perspective and then closed which confirms this but also shows the issue is resolved from a customer's perspective.
+
+
+
+What is a Closed Request
+A closed request refers to an incident, service request, or change request that has been fully resolved and documented and is no longer actively being worked on by the IT team. Closing a request is an essential part of the ITSM process, as it indicates that the request has been satisfactorily resolved and all necessary documentation has been completed.
+
+When a request is closed, it is typically marked as "closed" in the ITSM system or ticketing tool, and any relevant stakeholders are notified that the request has been resolved. Depending on the nature of the request, additional steps may be taken after the request has been closed, such as conducting a post-incident review to identify any opportunities for improvement or updating knowledge articles or other documentation to prevent similar incidents from occurring in the future.
+
+
+What is a Resolved Request?
+A resolved request refers to an incident, service request, or change request that has been successfully diagnosed and addressed by the IT team. When a request is resolved, it means that the underlying issue has been identified and addressed, and the request is no longer actively being worked on.
+
+Resolving a request typically involves fixing the issue, providing a workaround or temporary solution, or providing additional information or guidance to the user. The resolution of the request should meet the user's requirements and any service level agreements (SLAs) that have been agreed upon.
+
+
+Using a Resolved status
+
+Depending on the particular setup of your ITSM environment may depend on how the resolved status is used. Ideally, the results should be used as a gateway to a resolution for the customer, and the close status never is used. All these outcomes are the one since you could have received the status of closed tickets should be finished with no further actions to perform.
+
+When the ticket is resolved, you will allow a grace period for the customer to return to you saying that the issue is returned, that there isn't an actual resolution to the issue, and things like that if you close it if you close the ticket outright, you will end up with a scenario where the customer doesn't feel that you've listened to them or you are giving them the opportunity for their input concerning their request.

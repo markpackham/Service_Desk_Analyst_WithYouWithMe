@@ -31,3 +31,27 @@ Advises relevant persons of actions taken.
 Incident management: Level 4
 
 Ensures that incidents are handled according to agreed procedures.
+
+
+
+
+IT Service Management (ITSM) is a framework for managing and delivering IT services to organizations and their customers. It involves a set of policies, processes, and procedures for designing, producing, and supporting IT services and ensuring that they meet the needs and expectations of users and stakeholders.
+
+Remember the components of IT Service Management:
+
+Service Strategy: This component defines the overall strategy for IT services and aligns them with business objectives. It includes identifying customer needs, defining service offerings, and developing a portfolio.
+
+Service Design: This component designs IT services to meet the customers' needs. It includes designing service level agreements, IT infrastructure, security, and availability management.
+
+Service Transition: This component manages the transition of new or changed IT services into the production environment. It includes change management, release management, and knowledge management.
+
+Service Operation: This component manages the day-to-day operation of IT services. It includes incident management, problem management, event management, and request fulfilment.
+
+Continual Service Improvement: This component focuses on continually improving IT services to meet customers' changing needs. It includes monitoring and measuring IT services, identifying improvement opportunities, and implementing improvements.
+
+IT Service Management Tools: ITSM tools are used to support the processes of ITSM. They include tools for service desk management, incident management, change management, and configuration management.
+
+IT Service Management Best Practices: ITSM best practices are guidelines, standards, and recommendations for implementing and managing IT services. They include ITIL (Information Technology Infrastructure Library), COBIT (Control Objectives for Information and Related Technology), and ISO 20000 (Information Technology Service Management).
+ITSM typically covers a range of service areas, including incident management, change management, problem management, service request management, and service level management. ITSM tools and technologies typically support these areas, which help automate and streamline ITSM processes and workflows and enable effective communication and collaboration between IT teams and users.
+
+Effective ITSM can help organizations improve their IT services' quality, efficiency, and consistency, reduce downtime and disruptions, enhance user satisfaction, and support business objectives and outcomes. ITSM also provides a framework for continuous improvement, enabling IT teams to identify areas for improvement, implement best practices, and optimize IT services over time.

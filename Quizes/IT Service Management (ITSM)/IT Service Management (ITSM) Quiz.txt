@@ -1,0 +1,3 @@
+What is the purpose of an SLA? 
+To ensure that service providers meet the expectations of their customers.
+

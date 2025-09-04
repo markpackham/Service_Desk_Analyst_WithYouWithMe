@@ -1,0 +1,30 @@
+Incident or Service Request
+
+An incident is an unplanned interruption or reduction in quality of an IT service, while a service request is a formal request from a user for access to a service or assistance with a specific issue. Both are commonly managed through an IT service management system. 
+
+
+What is an Incident?
+An incident is defined by the ITIL framework as “An unplanned interruption to an IT service or reduction in the quality of an IT service. value of a configuration item that has not yet affected service is also an incident, for example failure of one disc from a mirror set”
+
+When you receive a ticket the first thing you want to think about is “Is something broken?” if the answers to your question are “Yes” then you are dealing with an incident request, not a service request.
+
+
+
+What is a Service Request?
+The ITIL framework defines a service request as “A formal request from a user for something to be provided – for example, a request for information or advice; to reset a password, or to install a workstation for a new user. 
+
+The request fulfilment process manages service requests, usually with the service desk. Service requests may be linked to a request for change as part of fulfilling the request.”.
+
+So, as a result, you will find that a service request comes through as a request for something you, as opposed to something that is broken, something that a user doesn't already have, or they wish to purchase something. Back to the initial question, "is something broken?" In this instance, the answer would be no. There is nothing broken; they are simply requesting something to be added.
+
+
+You don't put them just in a single box. You need to be open to the concept of that. A request may has start off as an incident. However, you do find that the actual resolution to the issue is a service request. 
+
+In this case. You would perform these steps as per standard fault resolution. However, you would actually change the ticket to be a service request to provision the actual purchased item or changed item.
+
+
+Example
+
+Robert is expecting to receive an email from the finance department. During your course of isolation and identifying the issue in question, you find the email in question was not sent to Robert directly, but to a shared mailbox of Robert does not have access to. 
+
+This would then result in the troubleshooting process having to change from handling an incident request to handling a service request. You would then go through and organise provisioning of the mailbox through these standard channels for Robert to be able to access the mailbox.

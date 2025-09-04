@@ -1,0 +1,67 @@
+Note-Taking
+
+
+Tips for Note Taking
+
+Start with a Template
+Create a standardised note-taking template that includes the customer's name, contact information, date and time of the call, issue description, troubleshooting steps, and resolution. This will help ensure you capture all necessary information and provide consistency across your notes.
+
+
+Use Active Listening
+Listen carefully to the customer's issue and ask clarifying questions as needed. Repeat back the problem to ensure you have a complete understanding and capture all necessary details.
+
+
+Use Clear & Concise Language / Non Jargon
+Avoid using technical jargon or acronyms that the customer may not understand. Use plain language and simple explanations to ensure clarity.
+
+
+Prioritise Information
+Focus on capturing the most critical information, such as the root cause of the issue and steps taken to resolve it. Don't spend too much time on irrelevant details.
+
+
+Use Formatting to Highlight Key Information:
+Use bold or italicised text to highlight critical information such as error messages, customer responses, or next steps.
+
+
+Avoid Multitasking
+Stay focused on the call and avoid multitasking, such as checking email or browsing the internet, as it can lead to missing important information.
+
+
+Review & Follow-Up
+After the call, review your notes to ensure accuracy and completeness. Follow up with the customer if necessary to confirm resolution and satisfaction.
+
+
+
+Opening Notes
+At the start of the phone call / ticket investigation, you should be noting the following elements:
+
+- Serial Number / Identification Number
+- Name (If they are calling on behalf of someone, make sure point 1 is the person they are calling on behalf of)
+- Contact Phone Number in the event the call gets disconnected
+Once you have established this, make a note of the base issue that the customer is facing. (Example: "I am having an issue where I can't receive emails") This way, you have the core issue the customer is facing, giving you a point to start your isolation from. 
+
+
+Troubleshooting Notes
+As you proceed through an incident/service request, you should document every step and the resulting outcome of those steps. This method allows someone to be able to take your ticket and continue from where you left off without repeating steps and consider 
+
+An example of this would be as follows (Example is a Microsoft Office Issue)
+Restarted Computer - No Change
+Started Online Repair of MS Office - Pending
+
+
+Closure Notes
+While managing a ticket, it is essential to keep good notes, after an issue, the closure notes will mean the most to not only now but future references.
+
+Throughout your troubleshooting, you would keep stating the outcome of each step you have performed, where your closure notes will be more defined steps that are directly relevant to the overall resolution of the request. 
+
+Below is an example of detailed closure notes:
+
+Issue: Machine not turning on
+Resolution: Ruptured Capacitor on Mainboard; Mainboard replaced.
+Steps Performed:
+
+- Checked for power getting to the machine
+- Confirmed Power Supply receiving power
+- Opened the machine to perform a visual inspection
+- Confirmed ruptured capacitor on Mainboard
+- Booked Dell Technician to attend to replace the faulty part
