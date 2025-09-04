@@ -1,0 +1,10 @@
+Service Level Agreements (SLAs)
+
+IT Service Level Agreements (SLAs) are contracts that define the level of service expected between an IT service provider and its clients.
+
+They outline the agreed-upon metrics, responsibilities, and expectations for the IT services provided, including availability, performance, and response time. 
+
+
+Service Level Agreements (SLAs) are the service desk's expectations on handling their tickets. Multiple types of SLAs can exist based on the ticket but also the department as a whole.
+
+These expectations are set to allow a minimum level of service that the company can rely on for multiple sections of the ticketing process. SLAs will also keep an IT department accountable for ensuring they hold a high service level at all times.

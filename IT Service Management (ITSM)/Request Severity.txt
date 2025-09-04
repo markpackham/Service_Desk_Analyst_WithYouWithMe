@@ -2,3 +2,47 @@ Request Severity
 
 Impact Vs. Urgency
 There can be a difference between what your customer perceives as how quickly their request should be actioned. As a Service Desk Analyst you will be required to ascertain the actual severity of the request based on the Impact and the Urgency.
+
+Naturally, you will be required to compare the requirements of the user against the requirements of the business and sometimes you will have to resolve the request sooner based on the customers requirement along with the business requirement than just the business requirement alone.
+
+
+
+Embracing Discovery
+Every creative endeavor requires that you take risks. If you try and don't succeed, you've still learned something. It took Thomas Edison more than 10,000 tries to invent a viable lightbulb. You're not failing. You're discovering what doesn't work.
+
+
+Gaining Insight
+To spark creativity, feed your brain material like you're cramming for a tough test. Then stop thinking about the problem you want to solve. Go surfing or take a leisurely walk. Research shows that letting your mind wander fosters creativity.
+
+It’s also found that meditation helps you spot and solve problems in creative ways. It promotes divergent thinking that gets novel ideas flowing. According to these studies, meditation also makes you more open to considering new solutions. Time to breathe.
+
+
+Making It Real
+No creative process is truly complete until it manifests a tangible reality. Whether your idea is an action or a physical creation, bringing it to life will likely involve the hard work of iteration, testing, and refinement.
+
+Just be wary of perfectionism. Push yourself to share your creations with others. By maintaining an open stance, you’ll be able to learn from their feedback. Consider their responses new material that you can draw from the next time you’re embarking on a creative endeavor.
+
+
+
+Impact: A measure of the effect of an incident, problem, or change on business processes.
+
+From a practical aspect, you will receive tickets from people that demand their ticket receive extra attention than what the issue actually requires. This can be for a few reasons:
+
+* Current Business Requirements
+* Role Requirements
+* Infrastructure Failure
+
+Depending on exactly how many people are involved in the outage will increase the impact. However, at the same time you will receive people where there is a pressing business requirement (Sales team trying to get tenders to clients, Marketing team with website issues, etc.) that will increase the impact of the request. 
+
+
+Urgency: A measure of how long it will be until an incident, problem or change significantly impacts the business.
+
+
+As you progress through requests, you will notice that customers will try and manipulate the urgency of their requirements instead of the actual business requirements. 
+
+Usually, this is done by adding the word "URGENT" into the subject line of the request or the email itself. Be mindful when you receive these requests that you correctly assess the request on its elements more than the person making it. 
+
+Just because someone is an executive doesn't necessarily mean they get to the front of the queue. They get some priority as a VIP but not over higher business requirements.
+
+
+Example: If the CEO is experiencing issues with their one drive while there is an issue with the central print server affecting the whole business. You would handle the print server first and then go and help the CEO.
