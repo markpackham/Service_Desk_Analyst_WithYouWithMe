@@ -3,3 +3,37 @@ Prioritising Requests
 You will receive tickets that have an impact where the customer believes something is super urgent when it is simply a quality-of-life request versus something directly impacting the business.
 
 Only appropriately prioritised tickets can result in the end user becoming frustrated and risking complaints. 
+
+
+End User Priority
+
+The end user will always attempt to prioritise their request as high as possible, regardless of whether there is a genuine reason for the priority they are requesting.
+
+The things you want to take into account when you are considering the validity of the request from the end user for a higher priority in their request are things such as,
+
+- The reason behind the request
+- Business Requirements that might support this request
+- Position in the company (VIP, etc.)
+
+
+Business Priority
+
+Business Priority is where there is a significant priority to the business based on the request brought forward by the end user. 
+
+This might be either a service request asking for new users to be created or an incident where there is a fault with the receipt of emails.
+
+It is essential to consider the overall impact the request will have when establishing the prioritisation if it is something that could still be a lower priority than the end user priority. 
+
+
+Overall Priority
+
+To establish the overall priority of a request, you should account for what the end user is requesting and ensure you consider what the broader business also requires from the situation.
+
+Ensure that any requests from the end user are captured in the ticket either in the body of the request itself or in a subsequent note attached.
+
+The most significant part of this assessment is ensuring you are communicating with the end user. If they request a higher priority and there is a higher business reason, explain to them that you currently have another issue you are working on. Please ensure you are giving them a realistic expectation of when you will get to their request.
+
+
+While you will have to know how to prioritise tickets effectively, ensure that you aren't cherry-picking tickets (Grabbing one here, one there) when you are managing your queue outsides of these prioritised tickets. Taking tickets starting at the oldest in the unallocated queue will ensure you are getting the customers served in the order they have approached for assistance by your team.
+
+Making sure you are communicating with the customer when you do prioritise one ticket over another will also assist you in keeping the customer on your side. Customers do understand when there are delays for genuine reasons but can become frustrated when there are delays without any updates or notifications from the service desk.

@@ -1,0 +1,12 @@
+When Should I Use Change Requests
+
+Change records are important for tracking and documenting changes made to a system or process. 
+
+They provide a historical record of what changes were made, who made them, and when they were made. This information is useful for troubleshooting, auditing, compliance, and planning future changes. 
+
+Change records exist as a method of record but as also a method of ensuring that all checks and balances are maintained as upgrades/repairs are delivered to the infrastructure whether it's a server restart or swapping over to a new production environment.
+
+Correctly using Change Management will set you up to be able to not only service your client better but also will ensure that you are ticking all the required boxes as part of any project you might be managing / problem record you might be fixing.
+
+
+Stepping through the Change Management Process

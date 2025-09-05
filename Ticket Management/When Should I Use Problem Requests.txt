@@ -1,0 +1,64 @@
+When Should I Use Problem Requests?
+
+Problem Records are used to track and manage recurring or significant IT issues that require investigation and resolution. 
+
+They enable organizations to identify the root causes of problems, document the steps taken to resolve them and prevent similar issues from occurring in the future. 
+
+
+Problem Management is a critical process in IT Service Management (ITSM) that involves identifying and addressing the underlying causes of IT incidents to prevent them from recurring. 
+
+The goal of Problem Management is to minimize the impact of incidents on business operations by identifying the root cause of a problem and developing a permanent solution. 
+
+A problem is defined as an unknown cause of one or more incidents. It also ensures that recurring incidents are minimized, and problems can be prevented. 
+
+
+So, when should I use Problem Management?
+
+Problem Management is an essential component of IT Service Management (ITSM). It should be used whenever there are recurring IT incidents or when the underlying cause of an incident is unknown. Here are some scenarios when Problem Management should be used with ITSM:
+
+1 Recurring incidents: If the same incidents are repeatedly occurring, it's a sign that there may be an underlying problem. Implementing Problem Management can help to identify the root cause of these incidents and develop a permanent solution to prevent them from happening again.
+
+2 Major incidents: When a major incident occurs, it's essential to identify the root cause and prevent it from happening again. Problem Management can help identify the incident's underlying cause and develop a permanent solution to prevent it from recurring.
+
+3 High-impact incidents: If an incident significantly impacts business operations or critical IT services, it's crucial to identify the root cause and develop a permanent solution. Problem Management can help identify the incident's underlying cause and create a permanent solution to prevent it from recurring.
+
+4 Unknown incidents: If the cause of an incident is unknown, it's important to conduct a root cause analysis to determine the underlying issue. Problem Management can help to identify the root cause and develop a permanent solution to prevent similar incidents from occurring in the future.
+
+
+
+Problem Management Steps
+
+Identify the problem
+The first step is to identify the problem that needs to be documented. This can be done through incident management or other processes.
+
+Gather information
+Collect as much information as possible about the problem, including the symptoms, the impact on users, and any related incidents or changes. 
+
+Classify the problem
+Assign a category or classification to the problem based on its nature, severity, and impact.
+
+Prioritize the problem
+Determine the priority of the problem based on its impact and urgency, and assign it a priority level.
+
+Create the problem record
+Create a new problem record in the ITSM tool or system, and enter all the relevant information about the problem, including its classification, priority, and any supporting documentation.
+
+Assign ownership
+Assign ownership of the problem record to a problem manager or other responsible party responsible for managing the problem resolution process.
+
+Set up a problem resolution plan
+Develop a problem resolution plan that outlines the steps needed to resolve the problem, including any necessary changes or workarounds.
+
+Monitor and update the problem record
+Continuously monitor the progress of the problem resolution process, and update the problem record with any new information or changes to the resolution plan.
+
+Close the problem record
+Once the problem has been resolved, close the problem record and document the solution and any lessons learned for future reference.
+
+
+
+By implementing Problem Management with ITSM, organizations can proactively address IT issues, reduce the number of incidents and minimize their impact on business operations. 
+
+Problem Management helps to improve the overall quality of IT services by identifying and addressing the underlying causes of incidents. 
+
+A solid understanding of Problem Management and the requests that accompany this will set you up for success.
